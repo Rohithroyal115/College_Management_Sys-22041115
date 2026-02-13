@@ -1,26 +1,9 @@
-This Django school management solution is hosted on aws infrastructure.
-URL - http://bhaktivedantaint.ap-south-1.elasticbeanstalk.com/
+# Django School Management System
 
-Homepage - 
-![image](https://github.com/rudraabhilash/Django_school_project/assets/8148039/1d3804a5-6d14-4ed6-894e-b992ce2f2b14)
+The School Management System is a comprehensive web-based application developed using Django that streamlines and automates academic and administrative operations of an educational institute. The system implements secure authentication and role-based access control (RBAC) using Django’s built-in authentication framework, ensuring that only authorized users can access specific functionalities. The application supports multiple roles including Admin, Teacher, and Student, each with clearly defined permissions.
 
-Event page - 
-![image](https://github.com/rudraabhilash/Django_school_project/assets/8148039/e54a157d-43ca-44b2-821a-47c7fc56f07b)
+The system includes a fully integrated Fee Payment Module that enables students to pay academic fees online through a secure payment gateway. All transactions are recorded and payment status updates automatically upon successful completion. Administrators can track payment history, verify transactions, and generate reports, significantly reducing manual processing and errors.
 
-![image](https://github.com/rudraabhilash/Django_school_project/assets/8148039/068b91ec-04bc-4554-8fd2-7c66458995df)
+The Admin Module allows complete management of students, teachers, courses, subjects, attendance, events, and marksheets. Teachers can log in securely, manage student academic records, upload materials, record attendance, and update marks. Students can access their enrolled courses, attendance records, fee details, announcements, and academic progress.
 
-![image](https://github.com/rudraabhilash/Django_school_project/assets/8148039/e0eb957b-96b4-4471-9e1e-336e436f0868)
-
-![image](https://github.com/rudraabhilash/Django_school_project/assets/8148039/b627da1b-d68e-40d5-a350-19406ad0f512)
-
-Payment page - 
-![image](https://github.com/rudraabhilash/Django_school_project/assets/8148039/32fd8509-9d4b-40e9-88bd-e4137ed863a1)
-
-Login page - 
-![image](https://github.com/rudraabhilash/Django_school_project/assets/8148039/8eb77066-462c-4c00-b0fa-42baaa6c9262)
-
-Attendence page - 
-![image](https://github.com/rudraabhilash/Django_school_project/assets/8148039/f274fbc1-a9a8-4af1-8830-b8ab76fb41f4)
-
-Marksheet page - 
-![image](https://github.com/rudraabhilash/Django_school_project/assets/8148039/2e0ee7b7-b979-4587-80de-578a2d48e6e1)
+Security measures such as password hashing, session management, and CSRF protection are implemented to ensure data integrity and reliability. The project follows a modular architecture, making it scalable and suitable for schools, colleges, and training institutes.
