@@ -1,6 +1,6 @@
-# Django College Management System
+# Django ERP Management System
 
-The College Management System is a comprehensive web-based application developed using Django that streamlines and automates academic and administrative operations of an educational institute. The system implements secure authentication and role-based access control (RBAC) using Django’s built-in authentication framework, ensuring that only authorized users can access specific functionalities. The application supports multiple roles including Admin, Teacher, and Student, each with clearly defined permissions.
+The College ERP System is a comprehensive web-based application developed using Django that streamlines and automates academic and administrative operations of an educational institute. The system implements secure authentication and role-based access control (RBAC) using Django’s built-in authentication framework, ensuring that only authorized users can access specific functionalities. The application supports multiple roles including Admin, Teacher, and Student, each with clearly defined permissions.
 
 The system includes a fully integrated Fee Payment Module that enables students to pay academic fees online through a secure payment gateway. All transactions are recorded and payment status updates automatically upon successful completion. Administrators can track payment history, verify transactions, and generate reports, significantly reducing manual processing and errors.
 
