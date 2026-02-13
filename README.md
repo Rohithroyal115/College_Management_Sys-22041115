@@ -1,4 +1,4 @@
-# Django School Management System
+# Django College Management System
 
 The School Management System is a comprehensive web-based application developed using Django that streamlines and automates academic and administrative operations of an educational institute. The system implements secure authentication and role-based access control (RBAC) using Django’s built-in authentication framework, ensuring that only authorized users can access specific functionalities. The application supports multiple roles including Admin, Teacher, and Student, each with clearly defined permissions.
 
